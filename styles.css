@@ -58,6 +58,7 @@ body {
 
 .brand-icon {
   display: flex;
+  font-size: xx-large;
   align-items: center;
   justify-content: center;
   width: 32px;
